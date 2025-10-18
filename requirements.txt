@@ -1,0 +1,8 @@
+gradio
+pdfplumber
+pytesseract
+opencv-python-headless
+pillow
+pydantic>=2
+python-dateutil
+pypdfium2
